@@ -5,7 +5,7 @@ lua54 'yes'
 name 'pigeon-crouch'
 author 'Pigeon Studios'
 description 'Crouch on Left Ctrl with GTA\'s own crouched walk and aim, in place of stealth mode, synced for everyone.'
-version '0.1.0'
+version '1.0.0'
 repository 'https://github.com/pigeon-studios-uk/pigeon-crouch'
 
 -- Pigeon Studios version registry entry, read by server/version_check.lua.
